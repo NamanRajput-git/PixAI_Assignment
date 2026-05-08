@@ -24,7 +24,7 @@ A **Streamlit web app** that analyzes any public GitHub repository's health usin
 ### 1. Clone / download the project
 
 ```bash
-git clone <this-repo>
+git clone <https://github.com/NamanRajput-git/PixAI_Assignment>
 cd PixAI_Assignment
 ```
 
@@ -82,9 +82,8 @@ The app opens at **http://localhost:8501** in your browser.
 1. Enter a repository in the sidebar — any of these formats work:
    - `owner/repo` (e.g., `facebook/react`)
    - `https://github.com/owner/repo`
-2. Optionally paste your API keys in the sidebar fields.
-3. Click ** Analyze Repository**.
-4. Review the health report, charts, and AI analysis.
+2. Click ** Analyze Repository**.
+3. Review the health report, charts, and AI analysis.
 
 ---
 

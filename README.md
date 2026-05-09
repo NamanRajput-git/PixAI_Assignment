@@ -4,6 +4,19 @@ A **Streamlit web app** that analyzes any public GitHub repository's health usin
 
 ---
 
+## Demo
+
+> **Watch the full video walkthrough:**
+> [▶ Download / View Demo Video (v1.0 Release)](https://github.com/NamanRajput-git/PixAI_Assignment/releases/tag/v1.0)
+
+The demo covers:
+- Entering a repository URL and running the health analysis
+- Reviewing the overall health score, gauge chart, and radar chart
+- Exploring activity, community, maintenance, documentation & CI/CD metrics
+- Reading the AI-generated report powered by NVIDIA NIM
+
+---
+
 ## Features
 
 | Feature | Details |
